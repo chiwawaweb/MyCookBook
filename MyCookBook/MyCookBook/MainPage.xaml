@@ -5,8 +5,14 @@
              x:Class="MyCookBook.MainPage">
 
     <StackLayout>
+        <Button Text="Trouver une recette" />
+        <Button Text="Nouvelle recette" />
+        <Button Text="Exporter..."/>
+        <Button Text="Importer..." />
+        <Button Text="Paramètres" />
+
         <!-- Place new controls here -->
-    	<Label Text="Welcome to Xamarin.Forms!" 
+    	<Label Text="Welcome to Xamarin.Forms x!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
     </StackLayout>
